@@ -1,0 +1,5 @@
+mysql_host : "localhost"
+mysql_port : "3306"
+mysql_user : "root"
+mysql_pass : "Csulb@2021"
+mysql_db : "csulb_employee"
